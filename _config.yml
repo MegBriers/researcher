@@ -18,7 +18,11 @@ sass:
 nav:
  - name: "About"
    link: "/researcher/"
- - name: "Resume"
+ - name: "History Research"
+   link: "/research"
+ - name: "Computing"
+   link : "/compsci/"
+ - name: "CV"
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
