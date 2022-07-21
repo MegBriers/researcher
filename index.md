@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="HoRgttqE_400x400 (1).jpg">
 
 Shwmae! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 
